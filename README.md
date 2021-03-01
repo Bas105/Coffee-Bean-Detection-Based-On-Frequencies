@@ -1,6 +1,6 @@
-# Design Of Capacitance Sensor And Utilization Of Color Sensor As a Roasting Level Detection For Kawi’s Coffee Bean Using The Value of Frequencies And Color Sensor As a Base Value For Fuzzy Logic Based On Arduino 
+# Design Of Capacitance Sensor And Utilization Of Color Sensor As a Roasting Level Detection For Kawi’s Coffee Bean Using The Value of Frequencies And Color Sensor As a Base Value For Fuzzy Logic Based On Arduino (Perancangan Sensor Kapasitor Dan Penggunaan Sensor Warna Sebagai Pendeteksi Tingkat Kematangan Biji Kopi Kawi Roasting Menggunakan Nilai Sensor Warna Dan Frekuensi Sebagai Logika Fuzzy Berbasis Arduino)
 
-#Perancangan Sensor Kapasitor Dan Penggunaan Sensor Warna Sebagai Pendeteksi Tingkat Kematangan Biji Kopi Kawi Roasting Menggunakan Nilai Sensor Warna Dan Frekuensi Sebagai Logika Fuzzy Berbasis Arduino
+#
 
 ### firstly i'm curious about how roastery machine work. Most of it using temperatures and time to setting up the roasting level. When we talk about the essence of coffee its really important to consider every deatails on it process such as planting, harvesting, grinding, water content, the size of the beans, the colours etc. I want to dive deep into the beans after roasting process.
 
