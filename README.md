@@ -4,7 +4,8 @@
 
 ### firstly i'm curious about how roastery machine work. Most of it using temperatures and time to setting up the roasting level. When we talk about the essence of coffee its really important to consider every deatails on it process such as planting, harvesting, grinding, water content, the size of the beans, the colours etc. I want to dive deep into the beans after roasting process.
 
-### Every Roasting level has different water content inside the bean that can affect the taste of coffee. From this perspective i want to increase the accuracy of roaster machine , i can put another variable to consider when we roast the beans. the capacitance, frequencies and the value of colour sensor of the beans can be fun to try.
+### Every Roasting level has different water content inside the bean that can affect the taste of coffee. From this perspective i want to increase the accuracy of roaster machine , i can put another variable to consider when we roast the beans. the capacitance, frequencies and the value of colour sensor of the beans can be fun to try. 
+(Pertama-tama karna penasaran sih gimana mesin roasting bekerja. Kebanyakan untuk setting roasting levelnya menggunakan suhu dan waktu. Ketika kita berbicara esensi kopi itu sendiri sangatlah penting untuk mempertimbangkan setiap detil dalam proses menanam, memanen, penggilingan, kadar air, ukuran biji, warna biji dan masih banyak lagi. Aku disini pengen tau keadaan kadar air biji setelah diroasting. Seiap level roasting mempunyai kadar air yang berbeda beda yang dapat berpengaruh terhadap rasa dari kopi itu sendiri. Dari perspective ini aku pengen meningkatkan akurasi dari mesin roasting, bisa dengan memasukkan variabel lain untuk dipertimbangkan ketika kita meroasting biji. Kpasitansi, frekuensi dan nilai dari sensor warna kyknya menarik untuk dicoba.)
 
 ### Pictures
 
